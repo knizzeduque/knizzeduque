@@ -29,3 +29,22 @@ Analytics:      Obsidian | Google Analytics | Tag Manager
 Design:         Figma | Adobe Photoshop | Illustrator | Premiere Pro
 SEO Tools:      Ahrefs | SurferSEO | ScreamingFrog
 Project Docs:   Notion | Obsidian | Google Workspace
+```
+---
+
+All the projects, roles, and client experiences listed on my GitHub profile and repositories are based on real work I've completed as a freelance contractor, intern, or team member between 2020–2024.
+
+Companies I've worked with include:
+- **WA Construct (USA)** – Marketing Director  
+- **MOTISM (Estonia)** – Web & Software Developer  
+- **Trips2Italy (USA)** – Marketing Strategist  
+- **Anachronist Therapy (Bahamas)** – Account Manager  
+- **Photobooth UK Ltd (UK, SG)** – Graphic Designer  
+- **Next Level Academy (Singapore)** – Web & Brand Designer  
+
+References, client screenshots, and sample outputs available upon request.
+
+Signed,  
+**Knizze Duque**  
+📍 Davao City, PH  
+🕒 Updated: June 2025
