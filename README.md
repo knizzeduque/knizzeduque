@@ -34,16 +34,16 @@ Project Docs:   Notion | Obsidian | Google Workspace
 
 ## 📁 Featured Projects
 
-- <a href="https://github.com/knizzeduque/motism-site-dev" target="_blank">MOTISM Website Development</a>
-- <a href="https://github.com/knizzeduque/level-zero-personality-test" target="_blank">Level Zero Personality Test (Investor Tool)</a>
-- <a href="https://github.com/knizzeduque/seo-ranking-case-study" target="_blank">SEO Ranking Case Study: Window Installation</a>
-- <a href="https://github.com/knizzeduque/shopify-email-automation" target="_blank">Shopify Email Automation & Klaviyo Optimization</a>
-- <a href="https://github.com/knizzeduque/data-insight-dashboard" target="_blank">Data Insight Dashboard – Shopify Case</a>
-- <a href="https://github.com/knizzeduque/erpnext-implementation-suite" target="_blank">ERPNext Implementation Suite (SME ERP)</a>
-- <a href="https://github.com/knizzeduque/wa-construct-marketing-system" target="_blank">WA Construct – Marketing Strategy & Award Campaigns</a>
-- <a href="https://github.com/knizzeduque/event-hosting-esports-assembly" target="_blank">Esports Event & Assembly Hosting System</a>
-- <a href="https://github.com/knizzeduque/photobooth-branding-suite" target="_blank">Photobooth UK Ltd – Branding Projects</a>
-- <a href="https://github.com/knizzeduque/travel-marketing-revival" target="_blank">Travel Funnel Revamp – Trips2Italy</a>
+- [MOTISM Website Development](https://github.com/knizzeduque/motism-site-dev)
+- [Level Zero Personality Test (Investor Tool)](https://github.com/knizzeduque/level-zero-personality-test)
+- [SEO Ranking Case Study: Window Installation](https://github.com/knizzeduque/seo-ranking-case-study)
+- [Shopify Email Automation & Klaviyo Optimization](https://github.com/knizzeduque/shopify-email-automation)
+- [Data Insight Dashboard – Shopify Case](https://github.com/knizzeduque/data-insight-dashboard)
+- [ERPNext Implementation Suite (SME ERP)](https://github.com/knizzeduque/erpnext-implementation-suite)
+- [WA Construct – Marketing Strategy & Award Campaigns](https://github.com/knizzeduque/wa-construct-marketing-system)
+- [Esports Event & Assembly Hosting System](https://github.com/knizzeduque/event-hosting-esports-assembly)
+- [Photobooth UK Ltd – Branding Projects](https://github.com/knizzeduque/photobooth-branding-suite)
+- [Travel Funnel Revamp – Trips2Italy](https://github.com/knizzeduque/travel-marketing-revival)
 
 ---
 
