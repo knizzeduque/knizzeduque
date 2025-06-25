@@ -32,6 +32,21 @@ Project Docs:   Notion | Obsidian | Google Workspace
 ```
 ---
 
+## 📁 Featured Projects
+
+- <a href="https://github.com/knizzeduque/motism-site-dev" target="_blank">MOTISM Website Development</a>
+- <a href="https://github.com/knizzeduque/level-zero-personality-test" target="_blank">Level Zero Personality Test (Investor Tool)</a>
+- <a href="https://github.com/knizzeduque/seo-ranking-case-study" target="_blank">SEO Ranking Case Study: Window Installation</a>
+- <a href="https://github.com/knizzeduque/shopify-email-automation" target="_blank">Shopify Email Automation & Klaviyo Optimization</a>
+- <a href="https://github.com/knizzeduque/data-insight-dashboard" target="_blank">Data Insight Dashboard – Shopify Case</a>
+- <a href="https://github.com/knizzeduque/erpnext-implementation-suite" target="_blank">ERPNext Implementation Suite (SME ERP)</a>
+- <a href="https://github.com/knizzeduque/wa-construct-marketing-system" target="_blank">WA Construct – Marketing Strategy & Award Campaigns</a>
+- <a href="https://github.com/knizzeduque/event-hosting-esports-assembly" target="_blank">Esports Event & Assembly Hosting System</a>
+- <a href="https://github.com/knizzeduque/photobooth-branding-suite" target="_blank">Photobooth UK Ltd – Branding Projects</a>
+- <a href="https://github.com/knizzeduque/travel-marketing-revival" target="_blank">Travel Funnel Revamp – Trips2Italy</a>
+
+---
+
 All the projects, roles, and client experiences listed on my GitHub profile and repositories are based on real work I've completed as a freelance contractor, intern, or team member between 2020–2024.
 
 Companies I've worked with include:
@@ -43,6 +58,7 @@ Companies I've worked with include:
 - **Next Level Academy (Singapore)** – Web & Brand Designer  
 
 References, client screenshots, and sample outputs available upon request.
+
 
 Signed,  
 **Knizze Duque**  
